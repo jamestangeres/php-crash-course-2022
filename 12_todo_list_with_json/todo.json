@@ -1,0 +1,17 @@
+{
+    "TODO ITEM 1": {
+        "completed": true
+    },
+    "TODO ITEM 2": {
+        "completed": true
+    },
+    "TODO ITEM 3": {
+        "completed": false
+    },
+    "TODO ITEM 4": {
+        "completed": false
+    },
+    "TODO ITEM 5": {
+        "completed": false
+    }
+}
